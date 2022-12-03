@@ -1,0 +1,26 @@
+{
+  "name": "team-info-cards-generator",
+  "version": "1.0.0",
+  "description": "node application to generate an html of cards for team members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matwll/team-info-cards-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matwll/team-info-cards-generator/issues"
+  },
+  "homepage": "https://github.com/matwll/team-info-cards-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
